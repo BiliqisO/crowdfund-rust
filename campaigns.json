@@ -1,0 +1,155 @@
+[
+  {
+    "campaign_balance": 0,
+    "campaign_id": 1,
+    "campaign_owner": "Biliqis",
+    "campaign_title": "Save the world",
+    "contributors": [],
+    "contributors_balance": {},
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": true,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 2,
+    "campaign_owner": "Biliqis",
+    "campaign_title": "Save the world",
+    "contributors": [],
+    "contributors_balance": {},
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": true,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 3,
+    "campaign_owner": "Biliqis",
+    "campaign_title": "Save Nigeria",
+    "contributors": [],
+    "contributors_balance": {},
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": true,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 4,
+    "campaign_owner": "Ashraf",
+    "campaign_title": "Save Web3",
+    "contributors": [],
+    "contributors_balance": {},
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": true,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 5,
+    "campaign_owner": "Ashraf",
+    "campaign_title": "Save Web3",
+    "contributors": [],
+    "contributors_balance": {},
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": true,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 6,
+    "campaign_owner": "AshrafBJ",
+    "campaign_title": "Save Web3",
+    "contributors": ["Biliqis", "Toheeb", "Afusat", "Afusat"],
+    "contributors_balance": { "Afusat": 0, "Biliqis": 0, "Toheeb": 0 },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 7,
+    "campaign_owner": "AshrafOnikoyi",
+    "campaign_title": "Save for iPad",
+    "contributors": ["Biliqis", "Afusat", "Toheeb"],
+    "contributors_balance": {
+      "Afusat": 0,
+      "AshrafOnikoyi": 18000,
+      "Biliqis": 0,
+      "Toheeb": 0
+    },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 8,
+    "campaign_owner": "AshrafOnikoyiPrince",
+    "campaign_title": "Save for iPad",
+    "contributors": ["Alake", "Biliqis"],
+    "contributors_balance": {
+      "Alake": 30,
+      "AshrafOnikoyiPrince": 10030,
+      "Biliqis": 10000
+    },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 30,
+    "campaign_id": 9,
+    "campaign_owner": "AshrafOnikoyiPrince1",
+    "campaign_title": "Save for iPad",
+    "contributors": ["Alake"],
+    "contributors_balance": { "Alake": 30 },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 30,
+    "campaign_id": 10,
+    "campaign_owner": "AshrafOnikoyiPrince1",
+    "campaign_title": "Save for iPad",
+    "contributors": ["Alake"],
+    "contributors_balance": { "Alake": 30 },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 30,
+    "campaign_id": 11,
+    "campaign_owner": "AshrafOnikoyiPrince",
+    "campaign_title": "Save for iPad",
+    "contributors": ["Alake"],
+    "contributors_balance": { "Alake": 30 },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  },
+  {
+    "campaign_balance": 0,
+    "campaign_id": 12,
+    "campaign_owner": "AshrafOnikoyiPrince1",
+    "campaign_title": "Save for iPad",
+    "contributors": ["Alake", "Sherifa", "Sherifa"],
+    "contributors_balance": { "Alake": 0, "Sherifa": 0 },
+    "duration": { "nanos": 0, "secs": 0 },
+    "funding_goal": 300,
+    "is_active": false,
+    "start_time": null
+  }
+]
