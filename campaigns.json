@@ -68,7 +68,7 @@
     "contributors_balance": { "Afusat": 0, "Biliqis": 0, "Toheeb": 0 },
     "duration": { "nanos": 0, "secs": 0 },
     "funding_goal": 300,
-    "is_active": false,
+    "is_active": true,
     "start_time": null
   },
   {
